@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/businesscereal/.dotnet/store/|arch|/|tfm|",
+      "/Users/businesscereal/.nuget/packages"
+    ]
+  }
+}

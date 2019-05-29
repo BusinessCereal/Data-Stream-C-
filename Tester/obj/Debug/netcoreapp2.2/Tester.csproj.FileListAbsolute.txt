@@ -1,0 +1,11 @@
+/Users/businesscereal/RiderProjects/DataFileTest/Tester/bin/Debug/netcoreapp2.2/Tester.deps.json
+/Users/businesscereal/RiderProjects/DataFileTest/Tester/bin/Debug/netcoreapp2.2/Tester.runtimeconfig.json
+/Users/businesscereal/RiderProjects/DataFileTest/Tester/bin/Debug/netcoreapp2.2/Tester.runtimeconfig.dev.json
+/Users/businesscereal/RiderProjects/DataFileTest/Tester/bin/Debug/netcoreapp2.2/Tester.dll
+/Users/businesscereal/RiderProjects/DataFileTest/Tester/bin/Debug/netcoreapp2.2/Tester.pdb
+/Users/businesscereal/RiderProjects/DataFileTest/Tester/obj/Debug/netcoreapp2.2/Tester.csprojAssemblyReference.cache
+/Users/businesscereal/RiderProjects/DataFileTest/Tester/obj/Debug/netcoreapp2.2/Tester.csproj.CoreCompileInputs.cache
+/Users/businesscereal/RiderProjects/DataFileTest/Tester/obj/Debug/netcoreapp2.2/Tester.AssemblyInfoInputs.cache
+/Users/businesscereal/RiderProjects/DataFileTest/Tester/obj/Debug/netcoreapp2.2/Tester.AssemblyInfo.cs
+/Users/businesscereal/RiderProjects/DataFileTest/Tester/obj/Debug/netcoreapp2.2/Tester.dll
+/Users/businesscereal/RiderProjects/DataFileTest/Tester/obj/Debug/netcoreapp2.2/Tester.pdb
